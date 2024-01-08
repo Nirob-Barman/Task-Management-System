@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-7p@0_t5o+zy+q4v_-xmxb+7eyvp3y-#)tjp@%p!b@tcs3(50$p
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
-CSRF_TRUSTED_ORIGINS = ['https://task-management-system-e8p4.onrender.com/', 'https://*.127.0.0.1']
+CSRF_TRUSTED_ORIGINS = ['https://task-management-system-e8p4.onrender.com', 'https://*.127.0.0.1']
 
 
 # Application definition
