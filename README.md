@@ -11,10 +11,11 @@ This Django project is a simple Task Management System that allows users to mana
 
 ## Getting Started
 1. Clone the repository: `https://github.com/Nirob-Barman/Task-Management-System.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run migrations: `python manage.py migrate`
-4. Start the development server: `python manage.py runserver`
-5. Visit `http://localhost:8000/` in your web browser.
+2. Navigate to the project directory: `cd Task-Management-System`
+3. Install dependencies: `pip install -r requirements.txt`
+4. Run migrations: `python manage.py migrate`
+5. Start the development server: `python manage.py runserver`
+6. Visit `http://localhost:8000/` in your web browser.
 
 ## Project Structure
 - `tasks`: Django app for managing tasks.
